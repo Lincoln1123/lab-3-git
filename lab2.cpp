@@ -58,6 +58,7 @@ public:
 
 
 void main() {
+	cout << "Hello world" << endl;
 	setlocale(0, "");
 	menu();
 	//autopark adas;
